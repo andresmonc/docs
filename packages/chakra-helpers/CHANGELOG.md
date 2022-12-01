@@ -1,5 +1,11 @@
 # @apollo/chakra-helpers
 
+## 1.4.2
+
+### Patch Changes
+
+- [#253](https://github.com/apollographql/docs/pull/253) [`2047581`](https://github.com/apollographql/docs/commit/2047581cfaf474bb188fe48ab8165b8c864a48ad) Thanks [@BlenderDude](https://github.com/BlenderDude)! - Updated parsing to address new highlighted line style
+
 ## 1.4.1
 
 ### Patch Changes
